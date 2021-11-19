@@ -1,0 +1,33 @@
+body
+{
+  color: rgb(3, 115, 117);
+  background: #d3f0ec;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed rgb(3, 115, 117);
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: rgb(3, 115, 117);
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+.header{
+  font-size: 30px;
+  letter-spacing: 4px;
+color: rgb(56, 137, 127);
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
